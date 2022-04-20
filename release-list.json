@@ -1,8 +1,8 @@
 [
   {
     "version": "v2.1.2",
-    "type": "sub",
-    "file-name": "v2.1.2-major-sub.md"
+    "type": "hotfix",
+    "file-name": "v2.1.2-major-hotfix.md"
   },
   {
     "version": "v2.1.1",
