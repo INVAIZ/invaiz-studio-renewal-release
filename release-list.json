@@ -1,5 +1,10 @@
 [
   {
+    "version": "v2.2.2",
+    "type": "main",
+    "file-name": "v2.2.2-major-main.md"
+  },
+  {
     "version": "v2.2.1",
     "type": "main",
     "file-name": "v2.2.1-major-main.md"
