@@ -1,5 +1,10 @@
 [
   {
+    "version": "v2.2.5",
+    "type": "main",
+    "file-name": "v2.2.5-major-main.md"
+  },
+  {
     "version": "v2.2.4",
     "type": "hotfix",
     "file-name": "v2.2.4-major-hotfix.md"
